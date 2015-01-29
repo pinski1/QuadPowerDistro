@@ -11130,6 +11130,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="27.94" y="129.54" size="1.778" layer="97">Power input
 +50V max
 +180A peak</text>
+<text x="162.56" y="35.56" size="2.54" layer="97">http://www.wiresandbits.co.uk</text>
+<text x="162.56" y="30.48" size="2.54" layer="97">https://github.com/pinski1/QuadcopterPowerDistro</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
