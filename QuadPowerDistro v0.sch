@@ -11131,7 +11131,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 +50V max
 +180A peak</text>
 <text x="162.56" y="35.56" size="2.54" layer="97">http://www.wiresandbits.co.uk</text>
-<text x="162.56" y="30.48" size="2.54" layer="97">https://github.com/pinski1/QuadcopterPowerDistro</text>
+<text x="162.56" y="30.48" size="2.54" layer="97">https://github.com/pinski1/QuadPowerDistro</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

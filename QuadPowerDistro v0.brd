@@ -148,7 +148,7 @@ Power Distro
 <text x="22.86" y="13.97" size="1.778" layer="25">+ in</text>
 <text x="20.955" y="34.29" size="1.778" layer="25">- in</text>
 <text x="12.7" y="2.54" size="1.778" layer="21" rot="R90">Wires and Bits</text>
-<text x="46.99" y="20.32" size="1.778" layer="21" rot="R90">v0</text>
+<text x="22.86" y="2.54" size="1.778" layer="21" rot="R90">v0</text>
 </plain>
 <libraries>
 <library name="burr-brown">
