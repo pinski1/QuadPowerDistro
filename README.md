@@ -1,10 +1,10 @@
 #Quadcopter Power Distribution & Sensor board#
 
-![Image of QuadPowerDistro board]('QuadPowerDistro v0 Board.png')
+![Image of QuadPowerDistro board](QuadPowerDistro v0 Board.png)
 
 This board will simplify your power distribution on your small to medium sized quadcopter. IT includes a built in current sensor to reduce weight and the hassle of adding an external one.
 
-See the [schematic]('QuadPowerDistro v0 Schematic.png') for more information.
+See the [schematic](QuadPowerDistro v0 Schematic.png) for more information.
 
 ##Dimensions##
 
