@@ -8,9 +8,9 @@ See the [schematic](QuadPowerDistro v0 Schematic.png) for more information.
 
 ##Dimensions##
 
-*The PCB is 50mm by 50mm and 1.6mm thick.
-*The corners have a 4mm radius.
-*The mounting holes are 3.2mm in diameter and are 4mm from the edges.
+* The PCB is 50mm by 50mm and 1.6mm thick.
+* The corners have a 4mm radius.
+* The mounting holes are 3.2mm in diameter and are 4mm from the edges.
 
 ##Buying##
 This board can be bought, assembled for your quadcopter on Tindie in 3 flavours.
